@@ -1,0 +1,8 @@
+{
+  "score_range": [0, 3],
+  "confidence_range": [1, 3],
+  "id_field": "id",
+  "response_field": "user_response",
+  "score_field": "annotator_score",
+  "confidence_field": "annotator_confidence"
+}

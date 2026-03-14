@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "user_response": "最近工作压力大，周一和周二特别紧张。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 2,
+      "user_response": "没什么特别的，情绪一直都不错。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 3,
+      "user_response": "从早到晚都有种紧绷感，放不下来。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 4,
+      "user_response": "心跳加速，感觉身体有点不对劲。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 5,
+      "user_response": "工作一忙就开始坐不住，总是在担心。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 6,
+      "user_response": "有时会在半夜惊醒，脑子里乱糟糟的。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 7,
+      "user_response": "感觉总有什么事要出错，但又说不出是什么。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 8,
+      "user_response": "一个人在家时脑子会乱想，心里很不安。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 9,
+      "user_response": "这段时间头疼，总觉得肌肉很紧张。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 10,
+      "user_response": "没什么特别的，就是感觉最近有点累。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 11,
+      "user_response": "天天都在想项目会不会出问题，睡眠也差了。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 12,
+      "user_response": "嗯，有点吧，说不太清楚。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 13,
+      "user_response": "偶尔会在压力时感到不安，但很快就过去了。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 14,
+      "user_response": "一周有三四天会这样，特别是工作日。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 15,
+      "user_response": "完全没有任何症状，状态很好。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 16,
+      "user_response": "不知道怎么形容，就是感觉哪里不对劲。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 17,
+      "user_response": "基本上没有，偶尔会紧张但很正常。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 18,
+      "user_response": "无法停止地想各种坏事，很烦恼。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 19,
+      "user_response": "每个时刻都在紧张，没有放松过。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 20,
+      "user_response": "时好时坏，最近比较焦虑一些。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 21,
+      "user_response": "前半周还好，后半周开始紧张起来。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 22,
+      "user_response": "感觉不适，但说不出具体是什么不适。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 23,
+      "user_response": "一直都处于紧张状态，没有放松过。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 24,
+      "user_response": "偶尔会感到不安，大概一周一两次。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 25,
+      "user_response": "大部分时间都感到有点焦虑或不安。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 26,
+      "user_response": "差不多每天都有点紧张，几乎没有放松过。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 27,
+      "user_response": "我没有感到紧张或焦虑。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 28,
+      "user_response": "有几天会感到有点紧张，但不经常。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 29,
+      "user_response": "完全没有，这段时间情绪很稳定。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 30,
+      "user_response": "有点吧，不过很难说清楚。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 31,
+      "user_response": "觉得肌肉很紧张，但不知道为什么。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 32,
+      "user_response": "工作忙的时候会，平时还好。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 33,
+      "user_response": "几乎每天都会感到紧张或不安。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 34,
+      "user_response": "总是在担心一些可能发生的坏事。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 35,
+      "user_response": "不存在这样的问题，我很放松。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 36,
+      "user_response": "嗯...不太好说，有点复杂。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 37,
+      "user_response": "早上起床就开始紧张，整天都这样。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 38,
+      "user_response": "有时候会，但不是很频繁。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 39,
+      "user_response": "感到莫名其妙的紧张，控制不了。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 40,
+      "user_response": "我一直都很焦虑，这不是什么新事。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 41,
+      "user_response": "只是偶尔有点紧张感，很正常的反应。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 42,
+      "user_response": "失眠、心跳快、全身不适。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 43,
+      "user_response": "有一两天比较严重，其他时间还可以。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 44,
+      "user_response": "不知道，反正就是觉得不舒服。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 45,
+      "user_response": "按理说没有什么需要担心的，但就是会。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 46,
+      "user_response": "大概五六天都有点紧张的感觉。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 47,
+      "user_response": "没有，或者说非常少，几乎没有。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 48,
+      "user_response": "前半周还可以，后面越来越紧张。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 49,
+      "user_response": "说不清楚是紧张还是其他不适。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    },
+    {
+      "id": 50,
+      "user_response": "不用说了，就是被焦虑吞没了。",
+      "annotator_score": null,
+      "annotator_confidence": null
+    }
+  ]
