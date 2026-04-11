@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+.env.*
+.env.local
+node_modules/
+**/node_modules/
+
+dist/
+build/
+*.egg-info/
+
+#本地 SQLite（镜像内会由应用初始化；若需提交空库可改为不忽略）
+backend/data/*.db

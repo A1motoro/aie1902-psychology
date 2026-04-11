@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GAD-7 AI 辅助评估</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/app.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="app-brand">
+        <h1 class="app-brand__title">GAD-7评估</h1>
+        <span class="app-brand__badge" id="model-id" aria-live="polite">未连接</span>
+      </div>
+      <div class="app-header__actions">
+        <button type="button" class="btn btn--ghost btn--small" id="btn-report" disabled>查看报告</button>
+        <button type="button" class="btn btn--ghost btn--small" id="btn-new-session">新会话</button>
+      </div>
+    </header>
+
+    <div class="app-layout">
+      <main class="main">
+        <section class="hero">
+          <h1>通过对话完成筛查</h1>
+          <p>
+            本工具基于 GAD-7 量表思路，用自然语言引导你描述过去两周的感受；服务端会同步更新各题打分快照。结果仅供教育与自助参考，不能替代专业诊断。
+          </p>
+          <div class="disclaimer-box">
+            <label>
+              <input type="checkbox" id="disclaimer-ack" />
+              <span
+                >我已阅读并理解：本服务非医疗诊断；若你有自伤/伤人风险或严重痛苦，请立即联系当地紧急服务或专业机构。</span
+              >
+            </label>
+          </div>
+          <div style="margin-top: 20px">
+            <button type="button" class="btn btn--primary" id="btn-start">开始评估</button>
+          </div>
+        </section>
+
+        <section class="chat" aria-label="对话">
+          <div class="messages" id="messages" role="log" aria-live="polite">
+            <div class="empty-state" id="empty-hint">开始会话后，助手会先发言。</div>
+          </div>
+          <div class="composer" id="composer" style="display: none">
+            <div class="composer__row">
+              <label class="sr-only" for="message-input">你的回复</label>
+              <textarea
+                id="message-input"
+                class="composer__input"
+                rows="2"
+                placeholder="用自然语言描述你的情况，Enter 发送，Shift+Enter 换行"
+                autocomplete="off"
+                disabled
+              ></textarea>
+              <button type="button" class="btn btn--primary" id="btn-send" disabled>发送</button>
+            </div>
+            <div class="composer__hint">网络或模型异常时会显示提示，可稍后重试。</div>
+            <div class="status-bar" id="status" role="status"></div>
+          </div>
+        </section>
+      </main>
+
+      <aside class="sidebar" aria-label="GAD-7 进度">
+        <h2 class="sidebar__title">量表快照</h2>
+        <ul class="snapshot-list" id="snapshot-items"></ul>
+        <p style="margin: 16px 0 0; font-size: 12px; color: var(--text-quaternary); line-height: 1.5">
+          图标含义：已锁定表示该项分值可信；需澄清表示助手可能会继续追问频率细节。
+        </p>
+      </aside>
+    </div>
+
+    <div
+      class="modal-backdrop"
+      id="report-modal"
+      hidden
+      aria-hidden="true"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="report-title"
+    >
+      <div class="modal">
+        <div class="modal__head">
+          <h2 id="report-title">结构化评估</h2>
+          <button type="button" class="btn btn--ghost btn--small" id="report-modal-close">关闭</button>
+        </div>
+        <div class="modal__body" id="report-modal-body"></div>
+      </div>
+    </div>
+
+    <script src="/js/app.js" defer></script>
+    <script>
+      document.getElementById("btn-start")?.addEventListener("click", function () {
+        var hint = document.getElementById("empty-hint");
+        if (hint) hint.remove();
+      });
+    </script>
+  </body>
+</html>
