@@ -1,0 +1,702 @@
+[
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有，我只担心真正重要的事。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会担心多一点，比如出门前检查好几遍。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "这几天什么都担心，从天气到工作，没完没了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "几乎所有小事我都过度担忧，根本停不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有这个问题，我很大条。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "只有在特别重要的时候才会多虑。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时间都在为各种琐事担忧，很累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担心得太多了，连午饭吃什么都要纠结很久。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "还好，担忧都在合理范围内。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会想多，但不会过度。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "最近两周对什么都过度担忧，甚至包括没发生的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "明明知道没必要，但还是忍不住担心各种细节。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时候还好，只有少数情况会想太多。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "天天都在为各种事情担忧，哪怕是很小的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "完全没有这种困扰。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "也就那一两天，因为家里有事。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "超过一半的时间都在为各种事情过度担忧。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担心得太宽泛了，从健康到 finances，什么都怕。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "我不怎么担心，事情来了再解决。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "遇到大事会多虑，小事还好。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "持续的过度担忧，涉及生活的方方面面。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住把小事想得很严重。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有，我想得挺简单的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会担心过多，但能很快调整。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "最近两周几乎每天都对各种事情担忧过多。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "有点担心过多，特别是关于未来的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "说不清，就是感觉什么都值得担心。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时间还好，担忧在可控范围。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "非常累，因为担心的事情太多了，杂七杂八的。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "也就几天吧，忙完这阵就好了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "一半以上的时间都在为各种琐事担忧。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担忧的范围太广了，什么都怕出错。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "不担心，我比较看得开。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会，比如等体检报告的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "天天都这样，连做梦都在担心。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "有点，特别是独处的时候容易想多。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住去想各种可能出现的麻烦。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "这几天有点担心过多，因为和人吵架了。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "经常为各种小事担忧过多，很心累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担忧感太强了，涉及生活的各个方面。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "还好，不算过度。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会想太多，但能自己拉回来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时间都在为各种事情担忧，停不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住去想各种还没发生的坏事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "完全没有，我很享受当下。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "超过一半的日子都在为各种事情担忧过多。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担心得太细了，连一句话都要回味好久。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "不担心，我心态很稳。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "遇到大事会多虑，小事还好。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "持续性的过度担忧，什么都怕。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住去想各种失败的可能。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有，我觉得我挺淡定的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会担心过多，特别是压力大时。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "最近两周几乎每天都对各种事情担忧过多。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "有点担心过多，不敢往好处想。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "说不清，就是感觉什么都值得担心。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时间都还好，能调节。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "非常痛苦，担心的事情太多了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "也就几天吧，因为失恋了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "一半以上的时间都在为各种琐事担忧。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担忧的范围太广了，什么都怕出错。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "不担心，我比较乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会，比如面试前。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "天天都这样，感觉要疯了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "有点，特别是夜深人静的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住去想各种灾难性的后果。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "这几天有点担心过多，因为工作压力大。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "经常为各种小事担忧过多，很心累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担忧感太强了，涉及生活的各个方面。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "还好，不算过度。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会想太多，但能自己缓过来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时间都在为各种事情担忧，停不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住去想各种还没发生的坏事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "完全没有，我很享受现在的状态。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "超过一半的日子都在为各种事情担忧过多。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担心得太细了，连一个眼神都要琢磨半天。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "不担心，我心态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "遇到紧急情况会多虑，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "持续性的过度担忧，感觉要窒息了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "总是忍不住去想各种坏结果。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "没有，我觉得我挺从容的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会担心过多，特别是人多嘈杂的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "最近两周几乎每天都对各种事情担忧过多。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "有点担心过多，不敢往好处想。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "说不清，就是感觉心里空落落的，什么都怕。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "大部分时间都还好，能应付过去。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "非常痛苦，想逃离这种无尽的担忧。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "完全没有，睡眠也很香。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "也就几天吧，因为家里装修吵。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "一半以上的时间都在为各种琐事担忧。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "担忧的范围太广了，什么都怕出错。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "不担心，我这个人比较随遇而安。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "偶尔会，比如去医院的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你是否对各种事情担忧过多？",
+    "input": "天天都这样，感觉生活没希望了，什么都担心。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  }
+]

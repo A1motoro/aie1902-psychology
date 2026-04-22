@@ -1,0 +1,702 @@
+[
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "我脾气挺好的，很少烦躁。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会急躁，比如排队太久的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "这几天火气特别大，一点就着。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "几乎每天都发脾气，控制不住自己的情绪。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "没有这个问题，我很温和。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "只有在特别累的时候才会不耐烦。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时间都觉得很烦，看谁都不顺眼。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "变得很急躁，别人说话慢一点我就想发火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "还好，情绪挺稳定的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会烦躁，但很快能平复。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "最近两周脾气特别暴躁，经常和人吵架。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "明明知道不该发火，但就是忍不住。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时候还好，只有少数情况会急。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "天天都烦躁，感觉全世界都在跟我作对。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "完全没有这种困扰。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "也就那一两天，因为发生了意外。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "超过一半的时间都很容易烦恼。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "感觉像个火药桶，随时会爆炸。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "我很有耐心，不容易急。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "遇到麻烦事会急，平时还好。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "持续的烦躁感，对什么都提不起兴趣，只想发火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是因为小事就大发雷霆。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "没有，我脾气很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会急躁，但能很快调整。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "最近两周几乎每天都很容易烦恼。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "有点急躁，特别是别人催我的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "说不清，就是感觉心里有团火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时间还好，能控制情绪。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "非常难受，一点小事就让我崩溃。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "也就几天吧，忙完就好了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "一半以上的时间都很容易发火。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "变得很不耐烦，完全没法静心做事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "不急躁，我比较慢性子。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会，比如等车的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "天天都这样，感觉要炸了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "有点，特别是独处的时候容易烦。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是觉得别人做事太慢，很着急。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "这几天有点烦，因为和人吵架了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "经常因为琐事发脾气，自己都觉得过分。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "烦躁感很强，完全控制不住脾气。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "还好，不算太急躁。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会烦，但能自己缓过来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时间都很容易烦恼，很累。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是觉得心里很堵，想发火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "完全没有，我很享受平静。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "超过一半的日子都很容易烦恼。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "感觉像个炸药包，一点就着。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "不急躁，我心态很稳。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "遇到大事会急，但能控制。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "持续性的烦躁，怎么都压不住火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是忍不住对家人发脾气。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "没有，我觉得我挺温和的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会急躁，特别是压力大时。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "最近两周几乎每天都很容易烦恼。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "有点烦，不敢和人说话怕吵架。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "说不清，就是感觉心里很燥。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时间都还好，能调节。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "非常痛苦，想控制脾气却做不到。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "也就几天吧，因为失恋了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "一半以上的时间都很容易发火。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "变得很不耐烦，完全没法静心。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "不急躁，我比较乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会，比如面试前。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "天天都这样，感觉要疯了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "有点，特别是夜深人静的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是觉得别人做事太慢，很着急。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "没有特别的感觉。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "这几天有点烦，因为工作压力大。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "经常因为琐事发脾气，自己都觉得过分。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "烦躁感很强，完全控制不住脾气。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "还好，不算太急躁。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会烦，但能自己缓过来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时间都很容易烦恼，很累。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是觉得心里很堵，想发火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "完全没有，我很享受现在的状态。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "超过一半的日子都很容易烦恼。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "感觉像个炸药包，一点就着。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "不急躁，我心态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "遇到紧急情况会急，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "持续性的烦躁，感觉要窒息了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "总是忍不住对亲近的人发脾气。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "没有，我觉得我挺从容的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会急躁，特别是人多嘈杂的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "最近两周几乎每天都很容易烦恼。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "有点烦，不敢和人说话怕吵架。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "说不清，就是感觉心里空落落的，很燥。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "大部分时间都还好，能应付过去。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "非常痛苦，想逃离这种烦躁感。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "完全没有，睡眠也很香。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "也就几天吧，因为家里装修吵。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "一半以上的时间都很容易发火。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "变得很不耐烦，完全没法静心。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "不急躁，我这个人比较随遇而安。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "偶尔会，比如去医院的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？容易恼怒或烦躁",
+    "input": "天天都这样，感觉生活没希望了，脾气特别差。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  }
+]

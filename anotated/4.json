@@ -1,0 +1,702 @@
+[
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "很容易放松，躺下就没事了。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会难放松，比如刚加完班的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "这几天身体一直紧绷着，怎么都松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全无法放松，感觉每根神经都拉着。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "没有这个问题，我休息得很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "只有在特别累的时候才觉得难放松。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时间都觉得紧绷，很难彻底松弛。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "就算躺着，脑子也在转，身体也松不下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "还好，能正常放松。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会僵硬，但活动一下就好了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "最近两周完全无法放松，肌肉一直是硬的。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "明明想休息，但身体就是不听使唤，松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时候能放松，只有少数情况不行。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "天天都觉得紧绷，从来没有真正放松过。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全没有这种困扰。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "也就那一两天，因为发生了意外。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "超过一半的时间都无法放松下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "感觉像根弦一直绷着，随时会断。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "我能很好地放松自己。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "遇到大事会紧绷，事后能放松。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "持续的紧张感，怎么休息都松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得肩膀和脖子硬邦邦的，松不开。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "没有，我想松就能松。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会难放松，但很快能调整。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "最近两周几乎每天都很难放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "有点难放松，特别是晚上。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "说不清，就是感觉身体很僵硬。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时间还好，能放松。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "非常难受，想放松却做不到。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "也就几天吧，忙完就好了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "一半以上的时间都处于紧绷状态。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "身体一直紧绷，完全松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "不紧张，我比较松弛。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会，比如等结果的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "天天都这样，感觉要僵住了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "有点，特别是独处的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得身体里有一股劲卸不掉。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "这几天有点难放松，因为吵架了。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "经常感到肌肉紧张，很难松弛。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "紧绷感很强，完全无法放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "还好，不算难放松。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会松不下来，但能自己调整。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时间都很难放松，很累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得身体紧绷，没法休息。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全没有，我很享受休闲时光。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "超过一半的日子都很难放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "感觉像背了一块石头，松不下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "不紧张，我心态很稳。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "遇到大事会紧绷，但能控制。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "持续性的紧绷，怎么都松不了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得肌肉僵硬，没法放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "没有，我觉得我挺松弛的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会难放松，特别是压力大时。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "最近两周几乎每天都很难放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "有点松不下来，不敢彻底休息。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "说不清，就是感觉身体不受控地紧绷。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时间都还好，能调节。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "非常痛苦，想放松却做不到。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "也就几天吧，因为失恋了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "一半以上的时间都处于紧绷状态。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "身体一直紧绷，完全松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "不紧张，我比较乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会，比如面试前。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "天天都这样，感觉要僵住了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "有点，特别是夜深人静的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得身体里有一股劲卸不掉。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "这几天有点难放松，因为工作压力大。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "经常感到肌肉紧张，很难松弛。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "紧绷感很强，完全无法放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "还好，不算难放松。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会松不下来，但能自己缓过来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时间都很难放松，很累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得身体紧绷，没法休息。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全没有，我很享受现在的状态。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "超过一半的日子都很难放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "感觉像背了一块石头，松不下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "不紧张，我心态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "遇到紧急情况会紧绷，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "持续性的紧绷，感觉要窒息了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "总是觉得肌肉僵硬，没法放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "没有，我觉得我挺从容的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会难放松，特别是人多嘈杂的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "最近两周几乎每天都很难放松。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "有点松不下来，不敢彻底休息。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "说不清，就是感觉身体空落落的，很紧绷。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "大部分时间都还好，能应付过去。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "非常痛苦，想逃离这种紧绷感。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "完全没有，睡眠也很香。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "也就几天吧，因为家里装修吵。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "一半以上的时间都处于紧绷状态。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "身体一直紧绷，完全松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "不紧张，我这个人比较随遇而安。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "偶尔会，比如去医院的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "问题：你感到难以放松吗？",
+    "input": "天天都这样，感觉生活没希望了，完全松不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  }
+]

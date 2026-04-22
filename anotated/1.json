@@ -1,0 +1,702 @@
+[
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "最近工作压力大，周一和周二特别紧张。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "没什么特别的，情绪一直都不错。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "从早到晚都有种紧绷感，放不下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "心跳加速，感觉身体有点不对劲。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "工作一忙就开始坐不住，总是在担心。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有时会在半夜惊醒，脑子里乱糟糟的。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "感觉总有什么事要出错，但又说不出是什么。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "一个人在家时脑子会乱想，心里很不安。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "这段时间头疼，总觉得肌肉很紧张。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "没什么特别的，就是感觉最近有点累。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "天天都在想项目会不会出问题，睡眠也差了。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "嗯，有点吧，说不太清楚。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会在压力时感到不安，但很快就过去了。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "一周有三四天会这样，特别是工作日。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "完全没有任何症状，状态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不知道怎么形容，就是感觉哪里不对劲。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "基本上没有，偶尔会紧张但很正常。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "无法停止地想各种坏事，很烦恼。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "每个时刻都在紧张，没有放松过。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "时好时坏，最近比较焦虑一些。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "前半周还好，后半周开始紧张起来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "感觉不适，但说不出具体是什么不适。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "一直都处于紧张状态，没有放松过。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会感到不安，大概一周一两次。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "大部分时间都感到有点焦虑或不安。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "差不多每天都有点紧张，几乎没有放松过。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "我没有感到紧张或焦虑。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有几天会感到有点紧张，但不经常。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "完全没有，这段时间情绪很稳定。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有点吧，不过很难说清楚。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "觉得肌肉很紧张，但不知道为什么。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "工作忙的时候会，平时还好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "几乎每天都会感到紧张或不安。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "总是在担心一些可能发生的坏事。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不存在这样的问题，我很放松。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "嗯...不太好说，有点复杂。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "早上起床就开始紧张，整天都这样。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有时候会，但不是很频繁。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "感到莫名其妙的紧张，控制不了。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "我一直都很焦虑，这不是什么新事。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "只是偶尔有点紧张感，很正常的反应。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "失眠、心跳快、全身不适。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有一两天比较严重，其他时间还可以。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不知道，反正就是觉得不舒服。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "按理说没有什么需要担心的，但就是会。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "大概五六天都有点紧张的感觉。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "没有，或者说非常少，几乎没有。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "前半周还可以，后面越来越紧张。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "说不清楚是紧张还是其他不适。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不用说了，就是被焦虑吞没了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不紧张，我心态很稳。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "遇到大事会紧张，小事还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "持续性的紧张，感觉透不过气。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "总是担心出错，心里很慌。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "没有，我觉得我挺淡定的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会烦躁，特别是天气热的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "最近两周几乎每天都焦虑。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有点紧张，不敢和人说话。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "说不清，就是感觉心里堵得慌。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "大部分时间都还好，能调节。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "非常烦躁，想哭。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "也就几天吧，因为失恋了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "一半以上的时间都在担心，很焦虑。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "心里总是七上八下的，静不下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不焦虑，我这个人比较乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会，比如面试前。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "天天都这样，感觉要疯了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有点，特别是夜深人静的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "总是觉得要有坏事发生，很紧张。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "这几天有点烦，因为工作压力大。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "经常感到莫名的紧张，手心出汗。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "焦虑感很强，影响我睡眠了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "还好，不算太紧张。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会心慌，但能自己缓过来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "大部分时间都很烦躁，想发火。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "总是提心吊胆的，怕出错。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "完全没有，我很享受现在的状态。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "超过一半的日子都在焦虑，很难受。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "感觉神经紧绷，一点小事就炸。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不紧张，我心态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "遇到紧急情况会紧张，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "持续性的焦虑，感觉要窒息了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "总是担心这担心那，心里很乱。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "没有，我觉得我挺从容的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会烦躁，特别是人多嘈杂的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "最近两周几乎每天都在这种情绪里。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "有点紧张，不敢看别人眼睛。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "说不清，就是感觉心里空落落的，很慌。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "大部分时间都还好，能应付过去。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "非常烦躁，想逃离现在的环境。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "完全没有，睡眠也很香。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "也就几天吧，因为家里装修吵。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "一半以上的时间都在担心，很焦虑。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "心里总是七上八下的，静不下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "不焦虑，我这个人比较随遇而安。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "偶尔会，比如去医院的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "3"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到紧张，焦虑或烦躁",
+    "input": "天天都这样，感觉生活没希望了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "3"
+  }
+]

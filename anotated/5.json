@@ -1,0 +1,702 @@
+[
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "我能坐得住，完全没问题。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会坐不住，比如等车的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "这几天总觉得屁股下面有刺，坐立难安。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全坐不住，必须不停地走来走去。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "没有这个问题，我能安静坐很久。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "只有在特别着急的时候才坐不住。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时间都觉得烦躁，坐在那里腿一直在抖。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "心里发慌，根本没法安安静静坐着。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "还好，能正常静坐。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会动来动去，但能控制住。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "最近两周完全无法静坐，必须一直走动。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "明明想坐着休息，但身体就是不听使唤，想动。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时候能坐住，只有少数情况不行。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "天天都坐立不安，感觉像热锅上的蚂蚁。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全没有这种困扰。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "也就那一两天，因为发生了意外。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "超过一半的时间都无法安静坐着。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "感觉身体里有股劲，必须动起来才舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "我能很好地保持静止。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "遇到大事会坐不住，事后能平静。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "持续的不安感，坐着就觉得难受。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是忍不住抖腿或者来回踱步。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "没有，我想坐就能坐。",
+    "output": "0", 
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会坐不住，但很快能调整。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "最近两周几乎每天都无法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "有点坐不住，特别是晚上。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "说不清，就是感觉身体很躁动。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时间还好，能坐住。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "非常难受，想坐下却做不到。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0", 
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "也就几天吧，忙完就好了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "一半以上的时间都坐立不安。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "身体一直躁动，完全没法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不躁动，我比较沉稳。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会，比如等结果的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "天天都这样，感觉要炸了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "有点，特别是独处的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是觉得必须做点什么，坐不住。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "没有特别的感觉。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "这几天有点坐不住，因为吵架了。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "经常感到坐立难安，必须走动。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不安感很强，完全无法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "还好，不算坐不住。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会动来动去，但能自己调整。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时间都很难静坐，很累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是觉得身体躁动，没法休息。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全没有，我很享受安静。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "超过一半的日子都很难静坐。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "感觉像身上有蚂蚁爬，坐不住。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不躁动，我心态很稳。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "遇到大事会坐不住，但能控制。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "持续性的不安，怎么都坐不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是忍不住要站起来走动。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "没有，我觉得我挺沉得住气的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会坐不住，特别是压力大时。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "最近两周几乎每天都无法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "有点坐不住，不敢彻底停下来。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "说不清，就是感觉身体不受控地躁动。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时间都还好，能调节。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "非常痛苦，想坐下却做不到。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "也就几天吧，因为失恋了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "一半以上的时间都坐立不安。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "身体一直躁动，完全没法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不躁动，我比较乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会，比如面试前。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "天天都这样，感觉要疯了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "有点，特别是夜深人静的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是觉得必须做点什么，坐不住。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "没有特别的感觉。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "这几天有点坐不住，因为工作压力大。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "经常感到坐立难安，必须走动。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不安感很强，完全无法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "还好，不算坐不住。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会动来动去，但能自己缓过来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时间都很难静坐，很累。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是觉得身体躁动，没法休息。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全没有，我很享受现在的状态。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "超过一半的日子都很难静坐。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "感觉像身上有蚂蚁爬，坐不住。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不躁动，我心态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "遇到紧急情况会坐不住，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "持续性的不安，感觉要窒息了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "总是忍不住要站起来走动。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "没有，我觉得我挺从容的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会坐不住，特别是人多嘈杂的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "最近两周几乎每天都无法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "有点坐不住，不敢彻底停下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "说不清，就是感觉身体空落落的，很躁动。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "大部分时间都还好，能应付过去。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "非常痛苦，想逃离这种躁动感。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "完全没有，睡眠也很香。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "也就几天吧，因为家里装修吵。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "一半以上的时间都坐立不安。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "身体一直躁动，完全没法静坐。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "不躁动，我这个人比较随遇而安。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "偶尔会，比如去医院的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？非常烦躁不安以至于难以静坐",
+    "input": "天天都这样，感觉生活没希望了，完全坐不住。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  }
+]

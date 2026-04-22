@@ -1,0 +1,702 @@
+[
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有这种想法，我觉得未来挺好的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会担心，比如看到新闻里的灾难。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "这几天总觉得要有坏事发生，心里很慌。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "几乎每天都觉得大难临头，感觉世界要完了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有这个问题，我很乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "只有在特别不确定的时候才会怕。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时间都有一种不祥的预感。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总觉得下一秒就会发生什么可怕的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "还好，没有这种恐惧感。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会胡思乱想，但知道不会发生。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "最近两周总是恐惧会有灾难降临。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "明明知道没必要，但就是忍不住害怕。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时候还好，只有少数情况会怕。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "天天都活在恐惧中，觉得可怕的事马上要发生。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "完全没有这种困扰。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "也就那一两天，因为听到了坏消息。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "超过一半的时间都害怕有可怕的事发生。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "感觉像末日要来了，非常恐惧。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "我不害怕，我相信船到桥头自然直。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "遇到大事会担心，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "持续的恐惧感，总觉得要有大祸临头。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是忍不住去想最可怕的后果。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有，我想得很简单。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会怕，但很快能过去。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "最近两周几乎每天都害怕有可怕的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "有点害怕，特别是晚上。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "说不清，就是感觉要有坏事。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时间还好，能控制想法。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "非常难受，总觉得灾难就在眼前。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "也就几天吧，忙完就好了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "一半以上的时间都活在恐惧中。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总觉得要有可怕的事，心神不宁。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "不害怕，我比较看得开。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会，比如等体检结果。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "天天都这样，感觉要崩溃了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "有点，特别是独处的时候。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是预感要有大灾难发生。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "这几天有点怕，因为和人吵架了。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "经常害怕会有可怕的事，很心累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "恐惧感很强，觉得世界不安全。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "还好，不算太害怕。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会怕，但能自己拉回来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时间都害怕有可怕的事，停不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是忍不住去想各种灾难场景。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "完全没有，我很享受当下。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "超过一半的日子都害怕有可怕的事。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "感觉像悬着一把剑，随时会掉下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "不害怕，我心态很稳。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "遇到大事会怕，但能控制。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "持续性的恐惧，觉得要有大祸。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是忍不住去想最坏的结果。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有，我觉得我挺淡定的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会害怕，特别是压力大时。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "最近两周几乎每天都害怕有可怕的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "有点怕，不敢往好处想。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "说不清，就是感觉要有坏事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时间都还好，能调节。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "非常痛苦，总觉得灾难要来了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "完全没有，睡眠也很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "也就几天吧，因为失恋了。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "一半以上的时间都害怕有可怕的事。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总觉得要有可怕的事，心神不宁。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "不害怕，我比较乐观。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会，比如面试前。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "天天都这样，感觉要疯了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "有点，特别是夜深人静的时候。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是忍不住去想各种灾难性的后果。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有特别的感觉。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "0"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "这几天有点怕，因为工作压力大。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "经常害怕会有可怕的事，很心累。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "恐惧感很强，觉得世界不安全。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "还好，不算太害怕。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会怕，但能自己缓过来。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时间都害怕有可怕的事，停不下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是忍不住去想各种还没发生的坏事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "完全没有，我很享受现在的状态。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "也就那一两天，因为身体不舒服。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "超过一半的日子都害怕有可怕的事。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "感觉像悬着一把剑，随时会掉下来。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "不害怕，我心态很好。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "遇到紧急情况会怕，平时还好。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "持续性的恐惧，感觉要窒息了。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总是忍不住去想各种坏结果。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "没有，我觉得我挺从容的。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会害怕，特别是人多嘈杂的时候。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "最近两周几乎每天都害怕有可怕的事。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "有点怕，不敢往好处想。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "说不清，就是感觉心里空落落的，很怕。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "大部分时间都还好，能应付过去。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "非常痛苦，想逃离这种恐惧感。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "完全没有，睡眠也很香。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "也就几天吧，因为家里装修吵。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "一半以上的时间都害怕有可怕的事。",
+    "output": "2",
+    "annotator_score": "2",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "总觉得要有可怕的事，心神不宁。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "不害怕，我这个人比较随遇而安。",
+    "output": "0",
+    "annotator_score": "0",
+    "annotator_confidence": "2"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "偶尔会，比如去医院的时候。",
+    "output": "1",
+    "annotator_score": "1",
+    "annotator_confidence": "1"
+  },
+  {
+    "instruction": "在过去的两周里，以下问题困扰您的频率如何？感到害怕，好像有什么可怕的事情可能发生",
+    "input": "天天都这样，感觉生活没希望了，总觉得要有大祸。",
+    "output": "3",
+    "annotator_score": "3",
+    "annotator_confidence": "2"
+  }
+]

@@ -1,6 +1,0 @@
-{
-  "name": "gad7-static",
-  "private": true,
-  "version": "0.0.0",
-  "description": "GAD-7 评估静态前端（pnpm 管理依赖与脚本）"
-}
